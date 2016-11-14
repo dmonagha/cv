@@ -18,10 +18,10 @@ title: Derek Monaghan's Resume
 name: Derek Monaghan
 email: derek@sysadmin.fail
 email_full: mailto:derek@sysadmin.fail
-website: github.io/
-website_full: https://dmonagha.github.io/
-github: trending
-twitter: twitter
+website: sysadmin.fail
+website_full: https://sysadmin.fail/
+github: dmonagha
+twitter: derek_monaghan
 
 # needed for travis-ci build
 exclude: [vendor]
