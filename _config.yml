@@ -7,7 +7,7 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://sysadmin.fail/cv
+url: https://sysadmin.fail/cv
 author: Fábio Madeira
 
 # edit this section with your information
@@ -19,7 +19,7 @@ name: Derek Monaghan
 email: derek@sysadmin.fail
 email_full: mailto:derek@sysadmin.fail
 website: sysadmin.fail
-website_full: http://sysadmin.fail/
+website_full: https://sysadmin.fail/
 github: dmonagha
 twitter: derek_monaghan
 
