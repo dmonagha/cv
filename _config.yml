@@ -21,7 +21,6 @@ email_full: mailto:derek@sysadmin.fail
 website: sysadmin.fail
 website_full: https://sysadmin.fail/
 github: dmonagha
-twitter: derek_monaghan
 
 # needed for travis-ci build
 exclude: [vendor]
